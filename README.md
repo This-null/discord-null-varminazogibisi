@@ -1,9 +1,10 @@
-# V14 Guard
+# V14 SMS GUARD
 
 
 # Bilgilendirme
 
-- V14 SMS GUARD
+- v12 cmd-sms sisteminin v14 sürümü ve güncel hali.
+- amacı sunucuyla oynayan kaşarları ekmeğin arasına sarmak.
 
 
 # Star Ve Fork Hakkında
